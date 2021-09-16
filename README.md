@@ -1,5 +1,5 @@
 # Stroke_Prediction
-Stroke Prediction using 3 Classification Models(LR, DT and RF)
+Stroke Prediction using 3 Classification Models(LR, RF and XGBoost)
 
 ==> Basic EDA  
 ==> Feature Scaling  
